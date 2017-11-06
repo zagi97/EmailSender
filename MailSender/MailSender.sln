@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailSender2", "MailSender2\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{A8A029D9-7E5C-425D-908D-618F50093E4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsServiceMailClient", "WindowsServiceMailClient\WindowsServiceMailClient.csproj", "{D48A2AC5-42A2-413C-87FD-C0E488EE0FCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsMailClient", "WindowsFormsMailClient\WindowsFormsMailClient.csproj", "{34E7F98F-6862-4CBD-AEF4-45D22194CA38}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{A8A029D9-7E5C-425D-908D-618F50093E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8A029D9-7E5C-425D-908D-618F50093E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8A029D9-7E5C-425D-908D-618F50093E4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D48A2AC5-42A2-413C-87FD-C0E488EE0FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D48A2AC5-42A2-413C-87FD-C0E488EE0FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D48A2AC5-42A2-413C-87FD-C0E488EE0FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D48A2AC5-42A2-413C-87FD-C0E488EE0FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34E7F98F-6862-4CBD-AEF4-45D22194CA38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E7F98F-6862-4CBD-AEF4-45D22194CA38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E7F98F-6862-4CBD-AEF4-45D22194CA38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E7F98F-6862-4CBD-AEF4-45D22194CA38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
